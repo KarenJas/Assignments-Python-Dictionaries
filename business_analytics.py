@@ -10,5 +10,6 @@ weekly_sales = {
 new_weakly_sales = copy.deepcopy(weekly_sales)
 new_weakly_sales["Week 2"]["Electronics"] = 18000
 
-print(new_weakly_sales)
-print(weekly_sales)
+#test
+#print(new_weakly_sales)
+#print(weekly_sales)

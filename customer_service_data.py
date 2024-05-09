@@ -1,6 +1,5 @@
 #3. Python Programming Challenges for Customer Service Data Handling
 
-#customer service tickets
 service_tickets = {
     "Ticket001": {"Customer": "Alice", "Issue": "Login problem", "Status": "open"},
     "Ticket002": {"Customer": "Bob", "Issue": "Payment issue", "Status": "closed"}
@@ -37,12 +36,6 @@ def display_ticket_status():
     print("\n    Tickets")
     for tickets in service_tickets:
         print(f"\nTicket Number: {tickets}\nIssue: {service_tickets[tickets]["Issue"]}\nStatus: {service_tickets[tickets]["Status"]}\n")
-
-
-
-
-
-
 
 
 

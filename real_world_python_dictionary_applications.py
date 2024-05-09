@@ -1,7 +1,4 @@
 #1. Real-World Python Dictionary Applications
-    #Add a new category called "Beverages" with at least two items.
-    #Update the price of "Steak" to 17.99.
-    #Remove "Bruschetta" from "Starters".
 
 restaurant_menu = {
     "Starters": {"Soup": 5.99, "Bruschetta": 6.50},
